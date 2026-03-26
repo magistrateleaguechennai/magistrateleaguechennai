@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0d0d0d;
+  color: white;
+}
+
+header {
+  background: black;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header h1 {
+  color: gold;
+}
+
+nav a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(45deg, black, darkred);
+}
+
+section {
+  padding: 30px;
+}
+
+.card {
+  background: #1a1a1a;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+}
